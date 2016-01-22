@@ -1,7 +1,7 @@
 {
 	"directory": "bower_components",
 	"registry": {
-		"register": "https://www.myget.org/F/itron-test/auth/23b880dd-79aa-4f0c-9700-c5d389ab8431/bower/",
+		"register": "https://www.myget.org/F/itron-test/bower/",
 		"search": [
 			"https://www.myget.org/F/itron-test/bower/",
 			"https://bower.herokuapp.com"
