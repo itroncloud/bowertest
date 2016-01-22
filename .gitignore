@@ -1,0 +1,28 @@
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.suo
+
+# folders
+bower_components/
+node_modules/
+out/
+.tmp/
+.sass-cache/
+.idea/
+bin/
+obj/
+coverage/
+node_modules/
+bower_components/
+build/
+typings/
+
+# don't track generated/copied html demo files
+.DS_Store
+.ntvs_analysis.dat
+*.tmp

@@ -1,0 +1,22 @@
+{
+  "name": "TestBowerPackage",
+  "authors": [
+    "Andy Walker <anwalker@itron.com>"
+  ],
+  "description": "This is a test package",
+  "main": "dist/library.js",
+  "moduleType": [],
+  "keywords": [
+    "Myget",
+    "test"
+  ],
+  "license": "SEE LICENSE FILE LICENSE.md",
+  "homepage": "http://www.itron.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
