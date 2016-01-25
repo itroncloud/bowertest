@@ -1,9 +1,9 @@
 {
 	"directory": "bower_components",
 	"registry": {
-		"register": "https://www.myget.org/F/itron-test/bower/",
+		"register": "http://ipl-bower.azurewebsites.net/",
 		"search": [
-			"https://www.myget.org/F/itron-test/bower/",
+			"http://ipl-bower.azurewebsites.net/",
 			"https://bower.herokuapp.com"
 	        ]
 	}
